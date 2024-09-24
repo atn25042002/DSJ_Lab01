@@ -17,33 +17,33 @@ Copiar código
 ## Instalación
 
 1. **Clona el repositorio**:
-   ```bash
+   ``````bash
    git clone <URL_DEL_REPOSITORIO>
    cd exterminador_insectos
 Crea un entorno virtual:
 
-bash
+```bash
 Copiar código
 python -m venv venv
 Activa el entorno virtual:
 
 En Windows:
-bash
+```bash
 Copiar código
 .\venv\Scripts\activate
 En macOS/Linux:
-bash
+```bash
 Copiar código
 source venv/bin/activate
 Instala las dependencias:
 
-bash
+```bash
 Copiar código
 pip install -r requirements.txt
 Ejecución del Juego
 Una vez que hayas configurado el entorno virtual y hayas instalado las dependencias, puedes ejecutar el juego con el siguiente comando:
 
-bash
+```bash
 Copiar código
 python main.py
 Controles
