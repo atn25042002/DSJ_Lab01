@@ -75,20 +75,5 @@ python main.py
 - Efectos de sonido y música de fondo
 - Menú principal y pantalla de pausa
 
-## Contribuciones
-Las contribuciones son bienvenidas. Si deseas contribuir al proyecto, por favor:
-1. Haz un fork del repositorio
-2. Crea una nueva rama (`git checkout -b feature/AmazingFeature`)
-3. Realiza tus cambios y haz commit (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
-
-## Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
 ## Créditos
-Desarrollado por [Tu Nombre/Nombre del Equipo]
-
----
-
-¡Disfruta exterminando insectos mutantes y salvando la galaxia!
+Desarrollado por Anthony Edwin Aco Tito
