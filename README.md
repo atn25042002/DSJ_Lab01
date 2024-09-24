@@ -29,28 +29,28 @@ exterminador_insectos/
 ## Instalación
 
 1. **Clona el repositorio**:
-   ```bash
+   ```sh
    git clone <URL_DEL_REPOSITORIO>
    cd exterminador_insectos
    ```
 
 2. **Crea un entorno virtual**:
-   ```bash
+   ```sh
    python -m venv venv
    ```
 
 3. **Activa el entorno virtual**:
    - En Windows:
-     ```bash
+     ```sh
      .\venv\Scripts\activate
      ```
    - En macOS/Linux:
-     ```bash
+     ```sh
      source venv/bin/activate
      ```
 
 4. **Instala las dependencias**:
-   ```bash
+   ```sh
    pip install -r requirements.txt
    ```
 
@@ -58,7 +58,7 @@ exterminador_insectos/
 
 Una vez que hayas configurado el entorno virtual y hayas instalado las dependencias, puedes ejecutar el juego con el siguiente comando:
 
-```bash
+```sh
 python main.py
 ```
 
